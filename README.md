@@ -35,7 +35,7 @@ To keep your current theme and only add the wallpaper, copy one file from
 Engine, chassis, wheels and tyres, brakes, dimensions and weight from BMW's
 data for the 2014 F 800 GS, plus callouts on the drawing: 21" front and 17"
 rear wheels, the WAD rear shock, the skid plate, the fuel tank under the seat
-with its filler on the right, an Akrapovič slip-on silencer and a touring
+with its filler on the right, an Akrapovič slip-on exhaust and a touring
 screen. The last two are on this particular bike, not on a stock one. Figures
 differ slightly between markets; check your own owner's manual before relying
 on them.
