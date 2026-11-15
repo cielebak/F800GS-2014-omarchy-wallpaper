@@ -25,8 +25,8 @@ To keep your current theme and only add the wallpaper, copy one file from
 
 | File | |
 |---|---|
-| `backgrounds/F800GS-2014-en.webp` | English sheet, 3840 x 2160 |
-| `backgrounds/F800GS-2014-pl.webp` | Polish sheet, 3840 x 2160 |
+| `backgrounds/F800GS-2014-en.jpg` | English sheet, 3840 x 2160 |
+| `backgrounds/F800GS-2014-pl.jpg` | Polish sheet, 3840 x 2160 |
 | `colors.toml` | gold-on-black palette the theme applies |
 | `icons.theme` | Yaru-yellow icons |
 
